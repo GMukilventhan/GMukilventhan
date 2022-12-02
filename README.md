@@ -12,7 +12,6 @@
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=GMukilventhan&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GMukilventhan&theme=dracula&hide_border=false)<br/>
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GMukilventhan&hide=javascript,css,scss,html&theme=tokyonight)
 
 
 ## 🏆GitHub Trophies
