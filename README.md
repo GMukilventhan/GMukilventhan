@@ -1,7 +1,22 @@
-# 💫About Me :
-🔭 I’m currently working on my project.
-🌱 I’m currently learning.
-👨‍💻 All of my projects are available in Github.
+### Hi there 👋🏼
+I'm Mukil, a **systems administrator**.
+<br>
+<br>
+Currently working for a french company called [Axians](https://www.axians.fr/) and student at ESGI. 
+Constantly expanding my skills through diving deeper into the different languages and working on my own projects ([Portfolio](https://www.mgeorge.fr))
+<br>
+<br>
+🎨 PHP, HTML, CSS, JS, XML, Ajax (Bootstrap)
+<br>
+💻 Python, C, Bash, Powershell
+<br>
+⌨️ MongoDB, SQL (MySQL, PostgreSQL), Microsoft Access
+<br>
+💭 Ansible
+<br>
+⚙️ Git, GitHub, VSCode
+<br>
+<br>
 
 ## 🌐Socials
 
