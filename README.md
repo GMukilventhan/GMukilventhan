@@ -1,5 +1,5 @@
 ### Hi there 👋🏼
-I'm Mukil, a **systems administrator**.
+I'm Mukil, a **systems & networks administrator**.
 <br>
 <br>
 Currently working for a french company called [Axians](https://www.axians.fr/) and student at ESGI. 
