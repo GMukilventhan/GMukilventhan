@@ -29,12 +29,13 @@ Constantly expanding my skills through diving deeper into the different language
 # 📊GitHub Stats :
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GMukilventhan&theme=dracula&hide_border=false)<br/>
+# 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=GMukilventhan&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GMukilventhan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=GMukilventhan&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
