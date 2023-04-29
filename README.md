@@ -3,7 +3,7 @@ I'm Mukil, a **systems & networks administrator**.
 <br>
 <br>
 Currently working for a french company called [Axians](https://www.axians.fr/) and student at ESGI. 
-Constantly expanding my skills through diving deeper into the different languages and working on my own projects ([Portfolio](https://www.mgeorge.fr))
+Constantly expanding my skills through diving deeper into the different languages and working on my own projects in my [Portfolio](https://www.mgeorge.fr)
 <br>
 # 💻Tech Stack
 <br>
