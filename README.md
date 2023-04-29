@@ -39,5 +39,5 @@ Constantly expanding my skills through diving deeper into the different language
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
- ###![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GMukilventhan&langs_count=10&hide=javascript,html,php,python)
+
 
