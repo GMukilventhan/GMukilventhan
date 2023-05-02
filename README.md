@@ -13,7 +13,7 @@ Constantly expanding my skills through diving deeper into the different language
 <br>
 ⌨️ MongoDB, SQL (MySQL, PostgreSQL), Microsoft Access
 <br>
-💭 Ansible
+💭 Ansible, Packer
 <br>
 ⚙️ Git, GitHub, VSCode
 <br>
