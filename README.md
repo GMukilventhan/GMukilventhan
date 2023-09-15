@@ -13,10 +13,11 @@ Constantly expanding my skills through diving deeper into the different language
 <br>
 ⌨️ MongoDB, SQL (MySQL, PostgreSQL), Microsoft Access
 <br>
-💭 Ansible, Packer
+💭 Ansible, Packer, Terraform
 <br>
 ⚙️ Git, GitHub, VSCode
 <br>
+☁️ Azure, Aws
 <br>
 
 ## 🌐Socials
