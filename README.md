@@ -2,7 +2,7 @@
 I'm Mukil, an *DevOps & Cloud Consultant*.
 <br>
 <br>
-Currently working for a french company called [Axians](https://www.axians.fr/) and student at ESGI. 
+Currently working for a french company called [Axians](https://www.axians.fr/) and a graduate of ESGI with a Master's in Systems, Networks, and Cloud Computing.
 
 <!--
 Constantly expanding my skills through diving deeper into the different languages and working on my own projects in my [Portfolio](https://www.mgeorge.fr)
