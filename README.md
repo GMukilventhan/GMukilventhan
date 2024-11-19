@@ -1,10 +1,16 @@
 ### Hi there 👋🏼
-I'm Mukil, a **systems & networks administrator**.
+I'm Mukil, an **DevOps & Cloud Consultant **.
 <br>
 <br>
 Currently working for a french company called [Axians](https://www.axians.fr/) and student at ESGI. 
+
+<!--
 Constantly expanding my skills through diving deeper into the different languages and working on my own projects in my [Portfolio](https://www.mgeorge.fr)
+[Wiki](https://wikitech.mgeorge.fr/)
+-->
+Check out my [Portfolio](https://www.mgeorge.fr) and [Wiki](https://wikitech.mgeorge.fr/) to see more of my work and contributions!
 <br>
+
 
 ## 🌐Socials
 
