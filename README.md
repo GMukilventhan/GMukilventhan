@@ -1,5 +1,5 @@
 ### Hi there 👋🏼
-I'm Mukil, an **DevOps & Cloud Consultant **.
+I'm Mukil, an *DevOps & Cloud Consultant*.
 <br>
 <br>
 Currently working for a french company called [Axians](https://www.axians.fr/) and student at ESGI. 
